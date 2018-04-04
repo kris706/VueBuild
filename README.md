@@ -1,10 +1,10 @@
 # vue项目搭建
 
-> A Vue.js project
+> 使用vue-cli搭建vue项目
 
 ## 安装node.js
 
->在node.js官网下载稳定版本
+在node.js官网下载稳定版本
 
 ``` bash
 # install dependencies
