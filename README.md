@@ -1,8 +1,10 @@
-# huawei
+# vue项目搭建
 
 > A Vue.js project
 
-## Build Setup
+## 安装node.js
+
+>在node.js官网下载稳定版本
 
 ``` bash
 # install dependencies
