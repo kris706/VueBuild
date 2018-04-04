@@ -14,8 +14,8 @@
 
 ## 搭建项目目录
 
-*1.vue init webpack 项目名
-*2.cd 项目名
-*3.npm install
-*4.npm run dev
+* 1.vue init webpack 项目名
+* 2.cd 项目名
+* 3.npm install
+* 4.npm run dev
 
